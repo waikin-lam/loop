@@ -20,6 +20,7 @@ gem 'high_voltage'
 gem 'activerecord-tableless'
 gem 'compass-rails'
 gem 'icalendar', '~> 2.3'
+gem 'simple_calendar', '~> 2.0'
 
 group :development do
     gem 'better_errors'
