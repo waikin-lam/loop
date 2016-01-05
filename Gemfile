@@ -22,6 +22,7 @@ gem 'compass-rails', '~> 2.0.5'
 gem 'icalendar', '~> 2.3'
 gem 'fullcalendar-rails'
 gem 'momentjs-rails'
+gem 'responders', '~>2.0'
 
 group :development do
     gem 'better_errors'
