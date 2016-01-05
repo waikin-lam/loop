@@ -18,9 +18,10 @@ gem 'simple_form'
 gem 'foundation-rails'
 gem 'high_voltage'
 gem 'activerecord-tableless'
-gem 'compass-rails'
+gem 'compass-rails', '~> 2.0.5'
 gem 'icalendar', '~> 2.3'
-gem 'simple_calendar', '~> 2.0'
+gem 'fullcalendar-rails'
+gem 'momentjs-rails'
 
 group :development do
     gem 'better_errors'

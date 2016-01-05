@@ -1,7 +1,7 @@
 class CalendarsController < ApplicationController
     
-    def month_calendar  
-        
+    def new
+        render 'calendars/new', :layout => 'calendar'
     end
     
 end
